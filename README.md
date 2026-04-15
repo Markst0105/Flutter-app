@@ -1,10 +1,6 @@
 # Flutter-app
 Test flutter app following google dev codelabs
 
-# test_flutter_app
-
-A new Flutter project.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
